@@ -4,7 +4,7 @@ This Power BI dashboard analyzes retail sales data to uncover insights about sal
 📌 Project Overview
 Tool Used: Power BI
 
-Dataset: Retail sales data (store, product, customer, and transaction info)
+Dataset: Retail sales data (store, product, sales)
 
 Goal: To provide stakeholders with a comprehensive view of key business metrics and identify areas for improvement.
 
@@ -42,8 +42,6 @@ Comparison with previous periods
 
   Visual indicators (KPIs) for goal tracking
 
-📊 Dashboard Preview
-(Insert screenshots here if possible — or link to an online report if published)
 
 ⚙️ Technical Details
 Power BI Features Used: Slicers, cards, bar/line charts, maps, tables, DAX measures
@@ -64,11 +62,4 @@ README.md: Project overview
 
   Pinpointed gaps in meeting sales goals month over month
 
-✅ Next Steps
-
-  Add customer segmentation and demographics (if data available)
-
-  Include predictive analytics (e.g., time-series forecasting)
-
-  Publish dashboard via Power BI Service with role-based access
 
